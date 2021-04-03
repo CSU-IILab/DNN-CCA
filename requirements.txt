@@ -1,0 +1,8 @@
+scipy
+numpy
+matplotlib
+jupyter
+scikit-learn
+tensorflow==1.15.0
+Keras==2.2.4
+keras_self_attention
