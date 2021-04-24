@@ -6,7 +6,7 @@ Deep neural network aided canonical correlation analysis (DNN-CCA) in Tensorflow
 
 This repository contains code for case study I in paper 
 
-> Z. Chen, K. Liang, S. X. Ding, C. Yang, T. Peng and X. Yuan, "A comparative study of deep neural network aided canonical correlation analysis-based process monitoring and fault detection methods,"  *IEEE Transactions on Neural Networks and Learning Systems*, 2021.
+> Z. Chen, K. Liang, S. X. Ding, C. Yang, T. Peng and X. Yuan, "A comparative study of deep neural network aided canonical correlation analysis-based process monitoring and fault detection methods,"  *IEEE Transactions on Neural Networks and Learning Systems*, 2021, doi:10.1109/TNNLS.2021.3072491.
 
 
 
@@ -62,7 +62,7 @@ Please cite our paper if you use this code or any of the models.
   pages={},
   year={},
   publisher={IEEE},
-  doi={}
+  doi={10.1109/TNNLS.2021.3072491}
 }
 ```
 
